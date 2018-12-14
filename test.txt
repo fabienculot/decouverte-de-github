@@ -1,1 +1,2 @@
-test de contribution sur GtHb
+test de contribution sur GitHub
+GitHub est une plate-forme Web de contrôle de version et de collaboration pour les développeurs.
